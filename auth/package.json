@@ -7,5 +7,14 @@
     "test": "jest"
   },
   "author": "Brian Emilius <brian@brianemilius.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-typedoc": "^2.2.2",
+    "gulp-typescript": "^5.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "typedoc": "^0.15.0",
+    "typescript": "^3.6.4"
+  }
 }
