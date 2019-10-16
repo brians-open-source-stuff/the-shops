@@ -10,4 +10,6 @@ User.init(
 	{ sequelize, modelName: "user" }
 )
 
+sequelize.sync()
+
 export default User
