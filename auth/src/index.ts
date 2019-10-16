@@ -1,11 +1,14 @@
 import express from "express"
+import server from "./server"
+import { readdirSync } from "fs"
+import { join } from "path"
 const app = express()
 const router = express.Router()
 
-router.get("/", function(req, res) {
-	res.send("Hello, World!")
-});
+readdirSync(join(__dirname, "routes")).forEach(function(file) {
+	require(join(__dirname, "routes", file))(router)
+})
 
-app.use(router);
+app.use(router)
 
-app.listen(3000);
+server(app)

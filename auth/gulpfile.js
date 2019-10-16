@@ -1,15 +1,20 @@
 const gulp = require("gulp")
-const typescript = require("gulp-typescript")
+const ts = require("gulp-typescript")
 
-gulp.task("typescript", function() {
-	const tsProject = typescript.createProject("tsconfig.json")
-	const tsResult = gulp.src("./src/**/*.ts")
+const tsProject = ts.createProject("tsconfig.json")
+
+const sources = {
+	ts: "./src/**/*.ts"
+}
+
+function typescript(done) {
+	const tsResult = gulp.src(sources.ts)
 		.pipe(tsProject())
 		
 	return tsResult.js.pipe(gulp.dest("./dist"))
-})
+}
 
 gulp.task("dev", function(done) {
-	gulp.watch(["./src/**/*.ts"], { ignoreInitial: false }, typescript)
+	gulp.watch([sources.ts], { ignoreInitial: false }, typescript)
 	done()
 })
