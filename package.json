@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "format": "tsc --noEmit && eslint src/**/*.{js,ts,tsx} --fix --quiet",
+    "format": "tsc --noEmit && eslint {auth}/src/**/*.{js,ts,tsx} --fix --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,7 +15,11 @@
     "husky": "^3.0.9",
     "lint-staged": "^9.4.2",
     "prettier": "^1.18.2",
-    "typescript": "^3.6.4"
+    "typescript": "^3.6.4",
+    "@typescript-eslint/eslint-plugin": "^2.4.0",
+    "@typescript-eslint/parser": "^2.4.0",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-prettier": "^3.1.1"
   },
   "husky": {
     "hooks": {
