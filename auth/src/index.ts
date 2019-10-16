@@ -1,3 +1,4 @@
+import dotenv from "dotenv"
 import express from "express"
 import { logger, errorLogger, debugLogger } from "./middleware/logging"
 import { setRequestId, ERR404, ERR500 } from "./middleware/errorResponses"
@@ -5,8 +6,11 @@ import bodyParser from "./config/bodyParser"
 import server from "./server"
 import { readdirSync } from "fs"
 import { join } from "path"
+dotenv.config()
 const app = express()
 const router = express.Router()
+
+app.locals.renewKeys = []
 
 bodyParser(router)
 
