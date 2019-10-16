@@ -4,8 +4,9 @@
   "description": "An authorization server for The Shops",
   "main": "dist/index.js",
   "scripts": {
-    "start": "npm-run-all dev:*",
-    "dev:typescript": "gulp dev",
+    "start": "run-p dev:*",
+    "dev:build": "gulp dev",
+    "dev:run": "nodemon dist/index",
     "lint": "tsc --noEmit && eslint src/**/*.{js,ts,tsx}",
     "format": "tsc --noEmit && eslint src/**/*.{js,ts,tsx} --fix --quiet",
     "test": "jest"
@@ -30,19 +31,6 @@
     "typescript": "^3.6.4"
   },
   "devDependencies": {
-    "husky": "^3.0.9",
-    "lint-staged": "^9.4.2",
     "nodemon": "^1.19.3"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,ts}": [
-      "npm run format",
-      "git add"
-    ]
   }
 }
