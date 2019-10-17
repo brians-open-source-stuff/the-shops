@@ -5,10 +5,11 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "run-p dev:*",
+    "dev:format": "tsc --noEmit && eslint src/**/*.{js,ts,tsx} --fix --quiet",
     "dev:build": "gulp dev",
     "dev:run": "nodemon dist/index",
+    "typedoc": "npx typedoc --out ../docs/auth --plugin typedoc-plugin-markdown",
     "lint": "tsc --noEmit && eslint src/**/*.{js,ts,tsx}",
-    "format": "tsc --noEmit && eslint src/**/*.{js,ts,tsx} --fix --quiet",
     "test": "jest"
   },
   "author": "Brian Emilius <brian@brianemilius.com>",
@@ -39,6 +40,7 @@
     "prettier": "^1.18.2",
     "sequelize": "^5.19.6",
     "typedoc": "^0.15.0",
+    "typedoc-plugin-markdown": "^2.2.11",
     "typescript": "^3.6.4",
     "uuid": "^3.3.3",
     "winston": "^3.2.1",
