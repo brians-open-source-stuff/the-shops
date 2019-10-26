@@ -29,7 +29,7 @@
 	msg: req => `user: ${req.body.username}`
 })
 
-*Defined in [middleware/logging.ts:11](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/logging.ts#L11)*
+*Defined in [middleware/logging.ts:11](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/logging.ts#L11)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 	expressFormat: true
 })
 
-*Defined in [middleware/logging.ts:5](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/logging.ts#L5)*
+*Defined in [middleware/logging.ts:5](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/logging.ts#L5)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 	msg: req => req.app.locals.requestId
 })
 
-*Defined in [middleware/logging.ts:25](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/logging.ts#L25)*
+*Defined in [middleware/logging.ts:25](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/logging.ts#L25)*
 
 ___
 
@@ -71,4 +71,4 @@ ___
 	transports: [new Winston.transports.Console()]
 })
 
-*Defined in [middleware/logging.ts:39](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/logging.ts#L39)*
+*Defined in [middleware/logging.ts:39](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/logging.ts#L39)*

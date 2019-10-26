@@ -14,7 +14,7 @@
 
 ▸ **postToken**(`req`: Request, `res`: Response, `next`: NextFunction): *Promise‹void›*
 
-*Defined in [controllers/token.controller.ts:5](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/controllers/token.controller.ts#L5)*
+*Defined in [controllers/token.controller.ts:7](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/controllers/token.controller.ts#L7)*
 
 **Parameters:**
 
