@@ -8,6 +8,7 @@
 
 * ["config/bodyParser"](modules/_config_bodyparser_.md)
 * ["config/database"](modules/_config_database_.md)
+* ["config/redis"](modules/_config_redis_.md)
 * ["controllers/token.controller"](modules/_controllers_token_controller_.md)
 * ["index"](modules/_index_.md)
 * ["middleware/errorResponses"](modules/_middleware_errorresponses_.md)

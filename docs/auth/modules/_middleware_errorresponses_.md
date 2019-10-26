@@ -16,7 +16,7 @@
 
 ▸ **ERR404**(`req`: Request, `res`: Response, `next`: NextFunction): *void*
 
-*Defined in [middleware/errorResponses.ts:13](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/errorResponses.ts#L13)*
+*Defined in [middleware/errorResponses.ts:13](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/errorResponses.ts#L13)*
 
 **Parameters:**
 
@@ -34,7 +34,7 @@ ___
 
 ▸ **ERR500**(`req`: Request, `res`: Response, `next`: NextFunction): *void*
 
-*Defined in [middleware/errorResponses.ts:25](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/errorResponses.ts#L25)*
+*Defined in [middleware/errorResponses.ts:25](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/errorResponses.ts#L25)*
 
 **Parameters:**
 
@@ -52,7 +52,7 @@ ___
 
 ▸ **setRequestId**(`req`: Request, `res`: Response, `next`: NextFunction): *void*
 
-*Defined in [middleware/errorResponses.ts:4](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/middleware/errorResponses.ts#L4)*
+*Defined in [middleware/errorResponses.ts:4](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/middleware/errorResponses.ts#L4)*
 
 **Parameters:**
 

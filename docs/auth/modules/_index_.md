@@ -15,7 +15,7 @@
 
 • **app**: *Express* =  express()
 
-*Defined in [index.ts:10](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/index.ts#L10)*
+*Defined in [index.ts:10](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/index.ts#L10)*
 
 ___
 
@@ -23,4 +23,4 @@ ___
 
 • **router**: *Router* =  express.Router()
 
-*Defined in [index.ts:11](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/index.ts#L11)*
+*Defined in [index.ts:11](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/index.ts#L11)*

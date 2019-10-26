@@ -14,9 +14,9 @@
 
 ### `Const` createToken
 
-▸ **createToken**(`user`: any): *Promise‹unknown›*
+▸ **createToken**(`user`: any): *Promise‹string›*
 
-*Defined in [services/users.ts:31](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/services/users.ts#L31)*
+*Defined in [services/users.ts:31](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/services/users.ts#L31)*
 
 **Parameters:**
 
@@ -24,7 +24,7 @@ Name | Type |
 ------ | ------ |
 `user` | any |
 
-**Returns:** *Promise‹unknown›*
+**Returns:** *Promise‹string›*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 ▸ **findUserByUsername**(`username`: string): *Promise‹any›*
 
-*Defined in [services/users.ts:5](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/services/users.ts#L5)*
+*Defined in [services/users.ts:5](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/services/users.ts#L5)*
 
 **Parameters:**
 
@@ -48,7 +48,7 @@ ___
 
 ▸ **verifyUser**(`user`: any, `password`: string): *Promise‹any›*
 
-*Defined in [services/users.ts:20](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/services/users.ts#L20)*
+*Defined in [services/users.ts:20](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/services/users.ts#L20)*
 
 **Parameters:**
 

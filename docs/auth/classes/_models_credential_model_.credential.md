@@ -131,7 +131,7 @@
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2535
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2535
 
 Builds a new model instance.
 
@@ -152,7 +152,7 @@ Name | Type | Description |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2530
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2530
 
 Returns true if this instance has not yet been persisted to the database
 
@@ -164,7 +164,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2535
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2535
 
 A reference to the sequelize instance
 
@@ -176,7 +176,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1545
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1545
 
 An object hash from alias to association object
 
@@ -192,7 +192,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1552
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1552
 
 The options that the model was initialized with
 
@@ -204,7 +204,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1535
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1535
 
 The name of the primary key attribute
 
@@ -216,7 +216,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1540
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1540
 
 The name of the primary key attributes
 
@@ -228,7 +228,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1557
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1557
 
 The attributes of the model
 
@@ -244,7 +244,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1562
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1562
 
 Reference to the sequelize instance the model was initialized with
 
@@ -256,7 +256,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1530
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1530
 
 The name of the database table
 
@@ -268,7 +268,7 @@ The name of the database table
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:98
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:98
 
 Add a hook to the model
 
@@ -290,7 +290,7 @@ Name | Type | Description |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:99
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:99
 
 **Type parameters:**
 
@@ -313,7 +313,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2609
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2609
 
 If changed is called with a string it will return a boolean indicating whether the value of that key in
 `dataValues` is different from the value in `_previousDataValues`.
@@ -340,7 +340,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2610
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2610
 
 **Type parameters:**
 
@@ -359,7 +359,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2611
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2611
 
 **Returns:** *false | string[]*
 
@@ -371,7 +371,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2707
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2707
 
 Decrement the value of one or more columns. This is done in the database, which means it does not use
 the values currently stored on the Instance. The decrement is done using a
@@ -409,7 +409,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2655
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2655
 
 Destroy the row corresponding to this instance. Depending on your setting for paranoid, the row will
 either be completely deleted, or have its deletedAt timestamp set to the current time.
@@ -430,7 +430,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2715
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2715
 
 Check whether all values of this and `other` Instance are the same
 
@@ -450,7 +450,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2720
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2720
 
 Check if this is eqaul to one of `others` by calling equals
 
@@ -470,7 +470,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2566
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2566
 
 If no key is given, returns all values of the instance, also invoking virtual getters.
 
@@ -489,7 +489,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2567
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2567
 
 **Type parameters:**
 
@@ -508,7 +508,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2568
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2568
 
 **Parameters:**
 
@@ -527,7 +527,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2551
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2551
 
 Get the value of the underlying data value
 
@@ -551,7 +551,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:108
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:108
 
 Check whether the mode has any hooks of this type
 
@@ -575,7 +575,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:109
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:109
 
 **Type parameters:**
 
@@ -597,7 +597,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2682
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2682
 
 Increment the value of one or more columns. This is done in the database, which means it does not use
 the values currently stored on the Instance. The increment is done using a
@@ -635,7 +635,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2616
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2616
 
 Returns the previous value for key from `_previousDataValues`.
 
@@ -659,7 +659,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2633
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2633
 
 Refresh the current instance in-place, i.e. update the object with current data from the DB and return
 the same object. This is different from doing a `find(Instance.id)`, because that would create and
@@ -682,7 +682,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:103
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:103
 
 Remove hook from the model
 
@@ -707,7 +707,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2660
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2660
 
 Restore the row corresponding to this instance. Only available for paranoid models.
 
@@ -727,7 +727,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2625
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2625
 
 Validate this instance, and if the validation passes, persist it to the database.
 
@@ -751,7 +751,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2594
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2594
 
 Set is used to update values on the instance (the sequelize representation of the instance that is,
 remember that nothing will be persisted before you actually call `save`). In its most basic form `set`
@@ -791,7 +791,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2595
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2595
 
 **Parameters:**
 
@@ -810,7 +810,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2596
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2596
 
 **Type parameters:**
 
@@ -830,7 +830,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2597
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2597
 
 **Parameters:**
 
@@ -849,7 +849,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2556
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2556
 
 Update the underlying data value
 
@@ -874,7 +874,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2726
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2726
 
 Convert the instance to a JSON representation. Proxies to calling `get` with no keys. This means get all
 values gotten from the DB, and apply all custom getters.
@@ -889,7 +889,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2648
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2648
 
 This is the same as calling `set` and then calling `save`.
 
@@ -911,7 +911,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2649
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2649
 
 **Parameters:**
 
@@ -930,7 +930,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2643
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2643
 
 Validate the attribute of this instance according to validation rules set in the model definition.
 
@@ -953,7 +953,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2546
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2546
 
 Get an object representing the query for this instance, use with `options.where`
 
@@ -967,7 +967,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:71
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:71
 
 Add a hook to the model
 
@@ -991,7 +991,7 @@ Name | Type | Description |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:76
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:76
 
 **Type parameters:**
 
@@ -1016,7 +1016,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1720
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1720
 
 Add a new scope to the model
 
@@ -1039,7 +1039,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1721
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1721
 
 **Parameters:**
 
@@ -1067,7 +1067,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2265
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2265
 
 A hook that is run after creating instances in bulk
 
@@ -1100,7 +1100,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2270
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2270
 
 **Type parameters:**
 
@@ -1131,7 +1131,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2290
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2290
 
 A hook that is run after destroying instances in bulk
 
@@ -1157,7 +1157,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2291
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2291
 
 **Parameters:**
 
@@ -1181,7 +1181,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2374
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2374
 
 A hook that is run after sequelize.sync call
 
@@ -1207,7 +1207,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2375
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2375
 
 **Parameters:**
 
@@ -1231,7 +1231,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2308
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2308
 
 A hook that is run after updating instances in bulk
 
@@ -1257,7 +1257,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2309
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2309
 
 **Parameters:**
 
@@ -1281,7 +1281,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2137
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2137
 
 A hook that is run after creating a single instance
 
@@ -1314,7 +1314,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2142
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2142
 
 **Type parameters:**
 
@@ -1345,7 +1345,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2169
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2169
 
 A hook that is run after destroying a single instance
 
@@ -1378,7 +1378,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2174
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2174
 
 **Type parameters:**
 
@@ -1409,7 +1409,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2353
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2353
 
 A hook that is run after a find (select) query
 
@@ -1442,7 +1442,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2358
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2358
 
 **Type parameters:**
 
@@ -1473,7 +1473,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2233
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2233
 
 A hook that is run after creating or updating a single instance, It proxies `afterCreate` and `afterUpdate`
 
@@ -1506,7 +1506,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2238
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2238
 
 **Type parameters:**
 
@@ -1537,7 +1537,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2388
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2388
 
 A hook that is run after Model.sync call
 
@@ -1563,7 +1563,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2389
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2389
 
 **Parameters:**
 
@@ -1587,7 +1587,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2201
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2201
 
 A hook that is run after updating a single instance
 
@@ -1620,7 +1620,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2206
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2206
 
 **Type parameters:**
 
@@ -1651,7 +1651,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2105
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2105
 
 A hook that is run after validation
 
@@ -1684,7 +1684,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2110
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2110
 
 **Type parameters:**
 
@@ -1715,7 +1715,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1821
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1821
 
 Run an aggregation method on the specified field
 
@@ -1747,7 +1747,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2249
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2249
 
 A hook that is run before creating instances in bulk
 
@@ -1780,7 +1780,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2254
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2254
 
 **Type parameters:**
 
@@ -1811,7 +1811,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2281
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2281
 
 A hook that is run before destroying instances in bulk
 
@@ -1837,7 +1837,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2282
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2282
 
 **Parameters:**
 
@@ -1861,7 +1861,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2367
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2367
 
 A hook that is run before sequelize.sync call
 
@@ -1887,7 +1887,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2368
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2368
 
 **Parameters:**
 
@@ -1911,7 +1911,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2299
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2299
 
 A hook that is run after updating instances in bulk
 
@@ -1937,7 +1937,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2300
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2300
 
 **Parameters:**
 
@@ -1961,7 +1961,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2326
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2326
 
 A hook that is run before a count query
 
@@ -1987,7 +1987,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2327
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2327
 
 **Parameters:**
 
@@ -2011,7 +2011,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2121
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2121
 
 A hook that is run before creating a single instance
 
@@ -2044,7 +2044,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2126
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2126
 
 **Type parameters:**
 
@@ -2075,7 +2075,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2153
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2153
 
 A hook that is run before destroying a single instance
 
@@ -2108,7 +2108,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2158
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2158
 
 **Type parameters:**
 
@@ -2139,7 +2139,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2317
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2317
 
 A hook that is run before a find (select) query
 
@@ -2165,7 +2165,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2318
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2318
 
 **Parameters:**
 
@@ -2189,7 +2189,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2335
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2335
 
 A hook that is run before a find (select) query, after any { include: {all: ...} } options are expanded
 
@@ -2215,7 +2215,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2336
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2336
 
 **Parameters:**
 
@@ -2239,7 +2239,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2344
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2344
 
 A hook that is run before a find (select) query, after all option parsing is complete
 
@@ -2265,7 +2265,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2345
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2345
 
 **Parameters:**
 
@@ -2289,7 +2289,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2217
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2217
 
 A hook that is run before creating or updating a single instance, It proxies `beforeCreate` and `beforeUpdate`
 
@@ -2322,7 +2322,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2222
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2222
 
 **Type parameters:**
 
@@ -2353,7 +2353,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2381
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2381
 
 A hook that is run before Model.sync call
 
@@ -2379,7 +2379,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2382
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2382
 
 **Parameters:**
 
@@ -2403,7 +2403,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2185
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2185
 
 A hook that is run before updating a single instance
 
@@ -2436,7 +2436,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2190
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2190
 
 **Type parameters:**
 
@@ -2467,7 +2467,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2089
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2089
 
 A hook that is run before validation
 
@@ -2500,7 +2500,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2094
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2094
 
 **Type parameters:**
 
@@ -2531,7 +2531,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2413
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2413
 
 Creates an association between this (the source) and the provided target. The foreign key is added on the
 source.
@@ -2562,7 +2562,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2523
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2523
 
 Create an N:M association with a join table
 
@@ -2632,7 +2632,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1910
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1910
 
 Builds a new model instance. Values is an object of key value pairs, must be defined but can be empty.
 
@@ -2658,7 +2658,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1919
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1919
 
 Undocumented bulkBuild
 
@@ -2684,7 +2684,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2011
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2011
 
 Create and insert multiple instances in bulk.
 
@@ -2716,7 +2716,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1831
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1831
 
 Count number of records if group by is used
 
@@ -2732,7 +2732,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1838
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1838
 
 Count the number of records matching the provided where clause.
 
@@ -2754,7 +2754,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1928
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1928
 
 Builds a new model instance and calls save on it.
 
@@ -2776,7 +2776,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1933
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1933
 
 **Parameters:**
 
@@ -2795,7 +2795,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2076
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2076
 
 Run a describe query on the table. The result will be return to the listener as a hash of attributes and
 their types.
@@ -2810,7 +2810,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2027
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2027
 
 Delete multiple instances, or set their deletedAt timestamp to the current time if `paranoid` is enabled.
 
@@ -2832,7 +2832,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1626
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1626
 
 Drop the table represented by this Model
 
@@ -2852,7 +2852,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1785
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1785
 
 Search for multiple instances.
 
@@ -2936,7 +2936,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1875
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1875
 
 Find all the rows matching your query, within a specified offset / limit, and get the total number of
 rows matching your query. This is very usefull for paging
@@ -2993,7 +2993,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1791
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1791
 
 Search for a single instance by its primary key. This applies LIMIT 1, so the listener will
 always be called with a single instance.
@@ -3016,7 +3016,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1796
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1796
 
 **Type parameters:**
 
@@ -3040,7 +3040,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1964
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1964
 
 A more performant findOrCreate that will not work under a transaction (at least not in postgres)
 Will execute a find call, if empty then attempt to create, if unique constraint then attempt to find again
@@ -3066,7 +3066,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1806
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1806
 
 Search for a single instance. This applies LIMIT 1, so the listener will always be called with a single
 instance.
@@ -3088,7 +3088,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1810
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1810
 
 **Type parameters:**
 
@@ -3111,7 +3111,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1939
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1939
 
 Find a row that matches the query, or build (but don't save) the row if none is found.
 The successfull result of the promise will be (instance, initialized) - Make sure to use `.then(([...]))`
@@ -3137,7 +3137,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1955
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1955
 
 Find a row that matches the query, or build and save the row if none is found
 The successful result of the promise will be (instance, created) - Make sure to use `.then(([...]))`
@@ -3170,7 +3170,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1652
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1652
 
 Get the tablename of the model, taking schema into account. The method will return The name as a string
 if the model has no schema, or an object with `tableName`, `schema` and `delimiter` properties.
@@ -3185,7 +3185,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:89
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:89
 
 Check whether the mode has any hooks of this type
 
@@ -3209,7 +3209,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:90
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:90
 
 **Type parameters:**
 
@@ -3231,7 +3231,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2470
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2470
 
 Create an association that is either 1:m or n:m.
 
@@ -3306,7 +3306,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2400
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2400
 
 Creates an association between this (the source) and the provided target. The foreign key is added
 on the target.
@@ -3337,7 +3337,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2048
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2048
 
 Increments a single field.
 
@@ -3365,7 +3365,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2057
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2057
 
 Increments multiple fields by the same value.
 
@@ -3393,7 +3393,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2066
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2066
 
 Increments multiple fields by different values.
 
@@ -3425,7 +3425,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1606
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1606
 
 Initialize a model, representing a table in the DB, with attributes and options.
 
@@ -3485,7 +3485,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1883
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1883
 
 Find the maximum value of field
 
@@ -3513,7 +3513,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1892
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1892
 
 Find the minimum value of field
 
@@ -3541,7 +3541,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1613
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1613
 
 Remove attribute from model definition
 
@@ -3561,7 +3561,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:84
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/hooks.d.ts:84
 
 Remove hook from the model
 
@@ -3588,7 +3588,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2032
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2032
 
 Restore multiple instances if `paranoid` is enabled.
 
@@ -3608,7 +3608,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1637
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1637
 
 Apply a schema to this model. For postgres, this will actually place the schema in front of the table
 name
@@ -3637,7 +3637,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1707
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1707
 
 Apply a scope created in `define` to the model. First let's look at how to create scopes:
 ```js
@@ -3708,7 +3708,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1901
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1901
 
 Find the sum of field
 
@@ -3736,7 +3736,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1619
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1619
 
 Sync this Model to the DB, that is create the table. Upon success, the callback will be called with the
 model instance (this)
@@ -3757,7 +3757,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2020
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2020
 
 Truncate all instances of the model. This is a convenient method for Model.destroy({ truncate: true }).
 
@@ -3777,7 +3777,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2081
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2081
 
 Unscope the model
 
@@ -3801,7 +3801,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2039
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:2039
 
 Update multiple instances that match the where options. The promise returns an array with one or two
 elements. The first element is always the number of affected rows, while the second element is the actual
@@ -3829,7 +3829,7 @@ ___
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1988
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1988
 
 Insert or update a single row. An update will be executed if a row which matches the supplied values on
 either the primary key or a unique key is found. Note that the unique index must be defined in your
@@ -3867,7 +3867,7 @@ Name | Type |
 
 *Inherited from void*
 
-Defined in C:/Users/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1994
+Defined in /home/brian/gitrepos/brians-open-source-stuff/the-shops/auth/node_modules/sequelize/types/lib/model.d.ts:1994
 
 **Type parameters:**
 
