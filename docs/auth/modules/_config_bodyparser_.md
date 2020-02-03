@@ -14,7 +14,7 @@
 
 ▸ **default**(`router`: Router): *void*
 
-*Defined in [config/bodyParser.ts:2](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/config/bodyParser.ts#L2)*
+*Defined in [config/bodyParser.ts:2](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/config/bodyParser.ts#L2)*
 
 **Parameters:**
 

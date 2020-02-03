@@ -14,7 +14,7 @@
 
 ▸ **default**(`app`: Application, `logger`: any): *Promise‹void›*
 
-*Defined in [server.ts:1](https://github.com/brians-open-source-stuff/the-shops/blob/436f272/auth/src/server.ts#L1)*
+*Defined in [server.ts:1](https://github.com/brians-open-source-stuff/the-shops/blob/83bdb6e/auth/src/server.ts#L1)*
 
 **Parameters:**
 

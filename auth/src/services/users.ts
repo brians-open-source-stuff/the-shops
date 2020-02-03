@@ -28,7 +28,7 @@ export const verifyUser = async function(
 	}
 }
 
-export const createToken = function(user: any) {
+export const createToken = function(user: any): Promise<string> {
 	return new Promise(function(resolve, reject) {
 		jwt.sign(
 			user,
