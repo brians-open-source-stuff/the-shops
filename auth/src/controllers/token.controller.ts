@@ -21,6 +21,7 @@ export const postToken = async function(
 			res.end()
 		}
 	} catch (error) {
+		logger.error(error)
 		next(error)
 	}
 }
